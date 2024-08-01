@@ -42,7 +42,6 @@ Thumbs.db
 
 # Les fichiers de modèles
 *.h5
-*.keras
 *.keras.zip
 
 # Les fichiers rapport
