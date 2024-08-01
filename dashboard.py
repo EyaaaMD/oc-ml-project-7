@@ -30,12 +30,12 @@ classes = ['Chihuahua', 'French_bulldog', 'German_shepherd', 'Saint_Bernard', 'S
 
 # Ajout d'une boîte de sélection pour les images d'exemple
 example_images = {
-    'German shepherd': './data/examples/image1.jpg',
-    'Saluki': './data/examples/image2.jpg',
-    'Chihuahua': './data/examples/image3.jpg',
-    'French bulldog': './data/examples/image4.jpg',
-    'Saint Bernard': './data/examples/image5.jpg',
-    'Siberian husky': './data/examples/image6.jpg'
+    'German shepherd': './data_/examples/image1.jpg',
+    'Saluki': './data_/examples/image2.jpg',
+    'Chihuahua': './data_/examples/image3.jpg',
+    'French bulldog': './data_/examples/image4.jpg',
+    'Saint Bernard': './data_/examples/image5.jpg',
+    'Siberian husky': './data_/examples/image6.jpg'
 }
 
  # Ajouter une ligne vide au début de la liste des options
