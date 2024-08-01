@@ -1,0 +1,55 @@
+# Les fichiers et répertoires spécifiques à Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Les environnements virtuels
+venv/
+.env/
+
+# Les fichiers de logs
+*.log
+
+# Les fichiers de configuration spécifiques à l'IDE
+.vscode/
+.idea/
+
+# Les dépendances téléchargées
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Les fichiers de tests
+.coverage
+.tox/
+.pytest_cache/
+
+# Les fichiers et répertoires spécifiques à Jupyter Notebook
+.ipynb_checkpoints/
+
+# Les fichiers de base de données
+*.sqlite3
+
+# Les fichiers de configuration spécifiques au système
+.DS_Store
+Thumbs.db
+
+# Les fichiers sensibles
+*.pem
+*.key
+*.crt
+
+# Les fichiers de modèles
+*.h5
+*.keras
+*.keras.zip
+
+# Les fichiers rapport
+*.pages
+*.key
+
+# Le sous-dossier data et son contenu
+data/
+archive/
+tempDir/
