@@ -22,7 +22,7 @@ def predict(image):
     return predictions
 
 # Interface utilisateur avec Streamlit
-st.title('Détection de la race de chien')
+st.title('Prédiction de race de chien')
 # Récupérer les noms des sous-dossiers
 # classes = os.listdir(dogImages_folder)
 # classes : list(validation_generator.class_indices.keys())
